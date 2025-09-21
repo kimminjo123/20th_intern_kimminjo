@@ -1,3 +1,0 @@
-/home/kmj/intern_ws/cpp_test/build/CMakeFiles/test.dir
-/home/kmj/intern_ws/cpp_test/build/CMakeFiles/edit_cache.dir
-/home/kmj/intern_ws/cpp_test/build/CMakeFiles/rebuild_cache.dir
