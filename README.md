@@ -33,3 +33,9 @@ day3 - hw2 - X
 
 day4 - hw1 - O
 day4 - hw2 - X
+
+OpenCV
+day1 - hw1 - O
+day1 - hw2 - O
+
+day2 - hw1 - X
