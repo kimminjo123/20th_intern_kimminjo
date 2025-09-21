@@ -23,7 +23,7 @@ day1 - hw1 - O
 day1 - hw2 - O
 day1 - hw3 - X
 
-day2 - hw1 - X
+day2 - hw1 - O
 day2 - hw2 - X
 day2 - hw3 - X
 day2 - hw4 - X
