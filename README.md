@@ -38,4 +38,4 @@ OpenCV
 day1 - hw1 - O
 day1 - hw2 - O
 
-day2 - hw1 - X
+day2 - hw1 - 개념설명보고서만 작성 완료
